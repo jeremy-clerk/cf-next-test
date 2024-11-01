@@ -1,0 +1,9 @@
+{
+  "projectId": "mv",
+  "orgId": "mv",
+  "settings": {
+    "buildCommand": "dotenv -e .env.local -- next build --no-lint",
+    "framework": "nextjs",
+    "nodeVersion": "20.x"
+  }
+}
